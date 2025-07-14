@@ -4,13 +4,13 @@ A Flutter app demonstrating the practical usage of the Expanded widget in creati
 
 ## Screenshots
 
-![Expense Tracker App](assets/screenshot.png)
+![Expense Tracker App](assets/home.png)
 
 ## How to Run
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:Mugisha-isaac/Flutter-expanded-widget.git
    cd expanded_widget_tutorial
    ```
 
